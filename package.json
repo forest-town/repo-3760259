@@ -155,7 +155,7 @@
     "ngx-toastr": "19.0.2",
     "ngx-trend": "8.0.1",
     "ngx-ws": "1.1.6",
-    "oradm-to-gql": "35.0.15",
+    "oradm-to-gql": "35.1.2",
     "oradm-to-sqlz": "1.1.2",
     "ove-auto-annotate": "0.0.9",
     "pm2-gelf-json": "1.0.5",
