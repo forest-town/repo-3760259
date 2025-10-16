@@ -75,7 +75,7 @@
     "@nstudio/xplat": "20.0.7",
     "@nstudio/xplat-utils": "20.0.7",
     "@operato/board": "9.0.46",
-    "@operato/data-grist": "9.0.37",
+    "@operato/data-grist": "9.1.0",
     "@operato/graphql": "9.0.46",
     "@operato/headroom": "9.0.37",
     "@operato/help": "9.0.46",
